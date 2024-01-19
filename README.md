@@ -26,3 +26,13 @@ Atualmente, os destroços do Titanic repousam no fundo do Atlântico Norte, sofr
 * Fare - Tarifa de passageiro
 * Cabin - Cabine
 * Embarked - Porto de Embarque (C = Cherbourg; Q = Queenstown; S = Southampton)
+
+<hr>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{naufragio-titanic-ml-insights}/count.svg" /></p> 
+<br>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
