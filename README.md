@@ -1,4 +1,4 @@
-# Naufragio Titanic - Insights & Machine Learning
+# Naufragio do Titanic - Insights & Machine Learning
 
 Esse é um projeto de machine learning desenvolvido com o objetivo de aprender sobre Data Science e Machine Learning.
 
